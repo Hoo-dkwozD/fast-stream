@@ -34,3 +34,23 @@ bin/
 .vscode/
 .idea/
 *.swp
+
+# Others
+*.mov
+*.mp4
+*.avi
+*.mkv
+*.flv
+*.rmvb
+*.wmv
+*.mpg
+*.mpeg
+*.rm
+*.vob
+*.pptx
+*.ppt
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.pdf
